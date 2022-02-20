@@ -2,7 +2,7 @@
 
 ## 1.1 Systems architecture
 
-### 1.1.1 The purpose of the CPU[^1]
+### 1.1.1 The purpose of the CPU ([^1])
 
 The CPU *(Central Processing Unit)* is often referred to as the hypothetical 'brain' of the computer. It has two main functions:
  - To process data and instructions
@@ -10,7 +10,7 @@ The CPU *(Central Processing Unit)* is often referred to as the hypothetical 'br
 
 *Most* processing is run in the CPU ('most' because more graphical programs often make use of the GPU, such as with OpenGL).
 
-### 1.1.2 The von Neumann architecture[^1]
+### 1.1.2 The von Neumann architecture ([^1])
 
 The 'von Neumann archictecture' refers to the design/specification set out by John von Neumann, and is in use in most modern general-purpose computers. The key elements of the von Neumann architecture are laid out as the following:
  - both data and instructions are stored in binary format.
@@ -30,7 +30,7 @@ A CPU based on the von Neumann architecture has five key registers *(high-speed 
  - the **current instruction register (CIR)** holds the instruction currently being decoded + executed
  - finally, the **accumulator (ACC)** temporarily holds the data being processed and the results of processing
 
-### 1.1.3 The von Neumann 'fetch-decode-execute' cycle[^1]
+### 1.1.3 The von Neumann 'fetch-decode-execute' cycle ([^1])
 
 The fetch-decode-execute cycle is strictly followed by von Neumann CPUs to process each instruction. The cycle is most commonly described as:
  1. the memory address held in the *program counter (PC)* is copied into the *memory address register (MAR)*.
