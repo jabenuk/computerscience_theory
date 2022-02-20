@@ -13,5 +13,3 @@ This is a repository to store all my GCSE computer science work.
 ## Coursework
 
 **TBA.**
-
-###### Jack Bennett
