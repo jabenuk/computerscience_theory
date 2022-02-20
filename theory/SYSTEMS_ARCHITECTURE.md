@@ -49,6 +49,8 @@ The fetch-decode-execute cycle is strictly followed by von Neumann CPUs to proce
  5. the instruction/data in the CIR is **decoded** and finally **executed**. The results of this processing are stored in the *accumulator (ACC)*.
  6. the cycle returns to step 1.
 
+*(For the sake of clarity, step 3 most represents the **fetch** stage.)*
+
 Depending on the type of instruction, additional steps may be taken:
  - if the instruction is to transfer data from the ACC *back to* primary memory:
     1. the intended memory address is copied into the MAR.
@@ -61,5 +63,25 @@ Depending on the type of instruction, additional steps may be taken:
 It can be simplified and summarised with a diagram such as this one:
 
 <img src="/resources/fetch-decode-execute.png" height=150px/>
+
+## 1.1.5 How common characteristics affect CPU performance ([^1])
+
+ - **Clock speed** directly affects the speed of the computer; it refers to the frequency of electric pulses issued by the CPU. **Overclocking** is the act of the user manually speeding up the clock speed - this can cause long term damage to the CPU due to more work + more heat.
+ - **Cache size**: the larger the CPU cache, the less time the CPU has to wait for instructions to be fetched. See [common CPU components](#112-common-cpu-components-1).
+ - **Number of cores**: each CPU core (processing unit) is capable of fetching, decoding, and executing its own instructions. The more cores, the more instructions can be dealt with at once.
+
+## 1.1.6 Embedded systems ([^1])
+
+There are more types of computers than just general-purpose. One such type is **embedded systems** - computers that are specialised for certain tasks, often complemented with specific hardware. Examples of embedded systems include, but are not limited to:
+ - central heating systems
+ - engine management systems in vehicles
+ - digital watches
+ - household appliances (such as TVs and dishwashers)
+ - calculators
+ - GPS systems
+
+Embedded systems are not usually user-programmable without extra effort. Some advantages of embedded systems are:
+ - cheaper to produce due to limited functions (they also don't need as much processing power).
+ - tend to require less power; some run from DC batteries.
 
 [^1]: https://www.bbc.co.uk/bitesize/guides/zbfny4j
