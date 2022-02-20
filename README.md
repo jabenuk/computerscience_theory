@@ -8,6 +8,7 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.1 Systems architecture](/theory/01/SYSTEMS_ARCHITECTURE.md)
  - [1.2 Memory](/theory/01/MEMORY.md)
  - [1.3 Storage](/theory/01/STORAGE.md)
+ - [1.4 Wired and wireless networks](/theory/01/WIRED_AND_WIRELESS_NETWORKS.md)
 
 ### Component 02: Computational thinking, algorithms, and programming (50%)
 **TBA.**
