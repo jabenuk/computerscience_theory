@@ -1,4 +1,4 @@
-# GCSE Computer Science (2022 OCR 9-1) coursework + theory
+# GCSE Computer Science coursework + theory
 
 This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification.
 
