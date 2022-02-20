@@ -81,7 +81,7 @@ There are more types of computers than just general-purpose. One such type is **
  - GPS systems
 
 Embedded systems are not usually user-programmable without extra effort. Some advantages of embedded systems are:
- - cheaper to produce due to limited functions (they also don't need as much processing power).
- - tend to require less power; some run from DC batteries.
+ - **cheaper to produce** due to limited functions (they also **don't need as much processing power**).
+ - tend to require **less power**; some run from DC batteries.
 
 [^1]: https://www.bbc.co.uk/bitesize/guides/zbfny4j
