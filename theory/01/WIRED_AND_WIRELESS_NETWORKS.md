@@ -29,16 +29,7 @@ Network performance is based on **response time**: how fast a message can be sen
 
 ### Bandwidth
 
-The aforementioned **bandwidth** is a measure of the amount of data the medium can transfer over a given period of time. Each transmission medium has a different bandwidth:
-
-| Medium | Typical bandwidth |
-| ------ | ----------------- |
-| Twisted copper wire (TCW) | Maximum of 1 Gb\*/s |
-| Fibre-optics | Over 40 Tb/s |
-| Home networks | Around 54 Mb/s |
-| Business networks | Maximum of 1 Gb/s |
-
-*\*small 'b' means -bit, not -byte.*
+The aforementioned **bandwidth** is a measure of the amount of data the medium can transfer over a given period of time. Each transmission medium has a different bandwidth - see the section on [transmission media](#transmission-media) for some information on the ones necessary to know at GCSE.
 
 The bandwidth of the medium is shared between each connected device; more devices = less bandwidth allocated per device = **worse response time**.
 
@@ -86,9 +77,79 @@ In a peer-to-peer (P2P) network, all computers have equal status. Rather than se
 
 P2P networks are best suited for smaller organisations that have **fewer** computers, or where **fewer** computers need access to the same data.
 
+## 1.4.4 Hardware associated with local area networks (LANs)
+
+### Hubs
+
+Hubs are small devices that allow wired connections to a network. They have **no knowledge of the devices connected;** any traffic the hub recieves is transmitted to **all** connected computers. This affect network performance, as many unnecessary signals are transmitted.
+
+### Wireless access points (WAPs)
+
+A wireless access point (WAP) uses a **radio transciever** to allow wireless connections to a LAN. The WAP creates its own wireless network that devices connect to, and sends this wireless traffic onto the main wired network.
+
+WAPs can also be used to **extend the range of a wireless network.** IN this case, the WAP can either receive and transmit data to *other* WAPs, or it can be connected (via a cable) to the main network.
+
+### Routers v. switches
+
+Routers are used to send data signals across the **internet.** Routers collect knowledge of available routes to transmit data, before determining the most suitable one to send data. Routers are commonly used in homes; these types of routers usually contain a [hub](#hubs) and a [WAP](#wireless-access-points-waps), enabling a small [peer-to-peer](#peer-to-peer-p2p-networks) network to be formed. Additionally, they contain a **modem** - 'modulator/demodulator' - that allows users to connect to the internet.
+
+Conversely, **switchs record which computers are connected to which ports;** when traffic is recieved, the switch forwards the traffic to its intended recipient only. This improves network performance by cutting down on unnecessary transmissions. Otherwise, switches are similar to [hubs](#hubs).
+
+### Network interface controllers (NICs)
+
+A network interface controller (NIC) offers an interface port for a wired connection, providing a method of connecting to a network. A *wireless* NIC also provides a **radio transceiver**, similar to [WAPs](#wireless-access-points-waps). Most modern computers have an NIC (and sometimes a wireless NIC) built-in; mobile devices, like phones, only feature a wireless NIC - giving only a wireless connection.
+
+### Transmission media
+
+| Medium | Typical [bandwidth](#bandwidth) | Cost |
+| ------ | ----------------- | ---- |
+| Twisted copper wire (TCW) | Maximum of 1 Gb\*/s | Cheap |
+| Fibre-optics | Over 40 Tb/s | Expensive |
+| Home networks | Around 54 Mb/s | |
+| Business networks | Maximum of 1 Gb/s | |
+
+*\*small 'b' means -bit, not -byte.*
+
+## 1.4.5 The Internet as a worldwide collection of computer networks
+
+The internet largely works on the [client-server](#client-server-networks) model:
+ - **web servers** store and maintain web content
+ - **mail servers** handle web-based email
+ - **media servers** allow clients to stream media
+
+### Domain name servers (DNS)
+
+Domain name servers convert **domain names** (e.g. `gnu.org`) to **network (IP) addresses** (e.g. `209.51.188.116`).
+
+### Hosting
+
+'Hosting' refers to storing files and data on a web server (the **host**). The URL (Uniform Resource Locator) of a website includes the **host name**, e.g. `github.com` is a host name, and `www.github.com` is the full URL.
+
+ Host names consist of three heirarchical levels. Take the host name `bbc.co.uk`:
+  - the **third level** is `bbc`.
+  - the **second level** is `co`.
+  - the **top level** is `uk`.
+
+### The 'cloud'
+
+The 'cloud' is a generic term for **remotely accessed storage,** accessed through the Internet. Due to this use of the Internet, the geographical location of the server(s) the data is stored on is usually unimportant.
+
+| Advantages | Disadvantages |
+| - | - |
+| files can be accessed from any location or device | unsecure; there is no guarantee that someone else is not accessing your data |
+| access can be granted to another user so they can remotely access data | unreliable; there is no guarantee that your data is being backed up |
+| cloud storage services back up data for you | an internet connection is required to access your own data |
+| idea for low-powered devices or users that travel a lot | a *lot* of other ethical problems with data handling |
+
+### The concept of virtual networks
+
+A virtual network is a network of geographically unrelated devices connected via the internet. Virtual network servers create a network that has no direct physical connection, but one that allows file sharing and communication. Some organisations use virtual networks to allow users at home to connect to the organisation's data and facilities, so they can work from home.
+
 ## References
 
 ### Sections
  - [1.4.1 Types of networks (+ pictures)](https://www.bbc.co.uk/bitesize/guides/zvspfcw/revision/2)
  - [1.4.2 Factors that affect the performance of networks](https://www.bbc.co.uk/bitesize/guides/zvspfcw/revision/8)
  - [1.4.3 Comparing the roles of computers in client-server and peer-to-peer networks](https://www.bbc.co.uk/bitesize/guides/zvspfcw/revision/3)
+ - [1.4.4 Hardware associated with local area networks (LANs)](https://www.bbc.co.uk/bitesize/guides/zvspfcw/revision/4)
+ - [1.4.5 The Internet as a worldwide collection of computer networks](https://www.bbc.co.uk/bitesize/guides/zvspfcw/revision/5)
