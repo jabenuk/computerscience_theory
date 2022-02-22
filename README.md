@@ -12,7 +12,7 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.5 Network topologies, protocols, and layers](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md)
 
 ### Component 02: Computational thinking, algorithms, and programming (50%)
-**TBA.**
+ - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
 
 ⚠️ some of the above content is not necessary for the GCSE course, see the official specification (if available) for guidance. ⚠️
 
