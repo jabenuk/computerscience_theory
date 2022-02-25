@@ -15,8 +15,6 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
 
-⚠️ some of the above content is not necessary for the GCSE course, see the official specification (if available) for guidance. ⚠️
-
 ## Coursework
 
 **TBA.**
