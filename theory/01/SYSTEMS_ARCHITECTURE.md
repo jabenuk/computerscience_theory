@@ -62,7 +62,7 @@ Depending on the type of instruction, additional steps may be taken:
 
 It can be simplified and summarised with a diagram such as this one:
 
-<img src="/resources/fetch-decode-execute.png" height=150px/>
+<img src="/resources/fetch-decode-execute.png" height=170px/>
 
 ## 1.1.5 How common characteristics affect CPU performance
 
