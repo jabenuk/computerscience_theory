@@ -59,7 +59,7 @@ Q = ¬ (A+B)
 Q = ~(A+B)
 etc ...
 ```
-This is a **NOR** gate. To create a **NAND** gate, replicate this combination, replacing all instances of *NOT* (or notational equivalents) with *AND* (or notational equivalents).
+This is a **NOR** gate. To create a **NAND** gate, replicate this combination, replacing all instances of *OR* (or notational equivalents) with *AND* (or notational equivalents).
 
 ## References
 

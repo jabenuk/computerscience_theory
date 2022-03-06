@@ -10,11 +10,11 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.3 Storage](/theory/01/STORAGE.md)
  - [1.4 Wired and wireless networks](/theory/01/WIRED_AND_WIRELESS_NETWORKS.md)
  - [1.5 Network topologies, protocols, and layers](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md)
+ - [1.6 System security](/theory/01/SYSTEM_SECURITY.md)
 
 ### Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
-
-⚠️ some of the above content is not necessary for the GCSE course, see the official specification (if available) for guidance. ⚠️
+ - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
 
 ## Coursework
 
