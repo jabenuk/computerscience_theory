@@ -55,6 +55,39 @@ When a network does not have any security rules in place. These policies tend no
  - a formal backup procedure
  - a regular maintenance programme/schedule
 
+## 1.6.3 Identifying and preventing vulnerabilities
+
+There are many techniques that can be used to keep a network safe:
+
+### Penetration testing
+
+Determine how resilient a network is against attacks. Authorised users probe the network for potential weaknesses and attempt to exploit them, mimicking the behaviour of unauthorised hackers.
+
+### Network forensics
+
+Monitor the traffic on a network. At regular intervals, transmitted [data packets](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#156-packet-switching) are copied. The copy, and information about the packet, are then stored for later analysis - usually processed in batches. The information gathered can help identify invasive traffic, or determine where data is being sent.
+
+### Network policies
+
+Users of a network are often the source of threats, so a network manager should have an acceptible use policy which ensures:
+ - users have a secure password that is regularly changed
+ - users cannot connected unauthorised equipment to the network
+ - levels of access are given
+ - data on the network is regularly backed up
+ - a disaster recovery procedure exists
+ - regular pen testing and forensic analysis
+ - regular maintenance
+ - preventing physical access to servers
+ - maintaining a high level of security, with up-to-date AV software and firewalls
+
+### User access levels
+
+Access levels determine the facilities a user has access to, such as software or important documents. A network manager should ensure users can only access the necessary facilities.
+
+### Basic security measures
+
+Users should have secure passwords (in accordance with the [network policy](#network-policies), and files should be encrypted.
+
 ## References
 
 ### Sections
