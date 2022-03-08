@@ -93,3 +93,4 @@ Users should have secure passwords (in accordance with the [network policy](#net
 ### Sections
  - [1.6.1 Forms of attack](https://www.bbc.co.uk/bitesize/guides/zj89dxs/revision/1)
  - [1.6.2 Threats posed to networks](https://www.bbc.co.uk/bitesize/guides/zj89dxs/revision/2)
+ - [1.6.3 Identifying and preventing vulnerabilities](https://www.bbc.co.uk/bitesize/guides/zj89dxs/revision/3)
