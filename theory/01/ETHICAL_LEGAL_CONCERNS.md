@@ -6,9 +6,43 @@ This section details how to investigate and discuss Computer Science technologie
 
 ### Ethical issues
 
+#### Ensuring public safety
+As new technology is introduced, it brings safety concerns - e.g. driverless cars.
+
+#### Data security
+Personal data must be kept safe. Some people attempt to hack systems in order to gain access to other people's data. Social media accounts and networks are especially prone to hacking.
+
 ### Legal issues
 
+Computers might be used unlawfully in many ways, e.g.:
+ - allowing someone to illegally share personal data
+ - helping to steal financial information
+ - helping to illegally copy and distribute films
+ - extorting information
+ - blackmail
+
+To help protect people, several laws have been introduced in the United Kingdom:
+ 1) The [Data Protection Act of 1998 & 2018](#1998-data-protection-act)
+ 2) The [Computer Misuse Act of 1990](#1990-computer-misuse-act)
+ 3) The [Copyright, Designs and Patents Act of 1988](#1988-copyright-designs-and-patents-act)
+ 4) [Creative Commons licensing](#creative-commons-licensing)
+ 5) The [Freedom of Information Act of 2000](#2000-freedom-of-information-act)
+
 ### Cultural issues
+
+#### The digital divide
+The **digital divide** is the division that exists between those who can use technology and those who cannot. For example, younger people may embrace new technology more than older people - the use of social media is a prime example of this.
+
+This division extends to those who can afford new technology and those who cannot. The UK is prosperous with high standards of living, but many people live in countries where access to computers is expensive and unaffordable. Furthermore, people in cities tend to have access to high-speed broadband, while those in rural or remote areas often do not.
+
+Another example of the digital divide is between those who have good computer skills and those who don't.
+
+#### The changing nature of employment
+Many companies now allow employees to work from home and communicate via technology. Cloud-based document storage is a common occurence in the modern workplace.
+
+Many organisations have outsourced call centres in other countries. The cost of communication with people in those countries is outweighed by the savings being made.
+
+Automation of processes using technology has led to a fall in manual, low-skilled work, such as warehouse packing. On the other hand, more high-skilled work is now available, which includes the maintenance of said systems.
 
 ### Environmental issues
 
