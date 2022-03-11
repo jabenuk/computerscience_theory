@@ -12,6 +12,7 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.5 Network topologies, protocols, and layers](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md)
  - [1.6 System security](/theory/01/SYSTEM_SECURITY.md)
  - [1.7 Systems software](/theory/01/SYSTEMS_SOFTWARE.md)
+ - [1.8 Ethical, legal, cultural, and environmental concerns](/theory/01/ETHICAL_LEGAL_CONCERNS.md)
 
 ### Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
