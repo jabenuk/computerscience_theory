@@ -55,8 +55,42 @@ File handling and maintenance is one of the most important tasks of an OS. The f
  - restore deleted files
  - permissions to be set on particular files (e.g. read-only or edit)
 
+## 1.7.2 Utility software
+
+### Encryption software
+
+Disguise the contents of files so they can only be understood by authorised users. This example of utility software uses a complex algorithm to encrypt the content. For more, see [Networks, Protocols, and Layers: Encryption](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#encryption). Encryption software can encrypt specified files, or the whole of a specified disk or partition.
+
+### Defragmentation
+
+When a file is stored on a hard disk, it is stored **not as a whole file, but as a series of segments.** Sometimes the segments are run together in sequence. However, the segments could also be **split up** over a disk. This is **fragmentation.**
+
+Over time, more and more fragmented. **A fragmented disk takes longer to read and write to**, making a computer run slower. Defragmentation rearranges the segments so they run contiguously (in series) - this decreases RW time.
+
+### Data compression
+
+Compression software reduces the size of a file stored on secondary storage. Smaller files are easier to transmit on a network due to requiring less packets - reduced size also means more files can be stored in a given area of storage.
+
+## 1.7.3 Backups
+
+Data can be lost accidentally or deliberately - in the case of hard drives, it probably will. This is why **backups** should be taken - regular copies of the data are made, replicating either specified files, or all the files on a disk or partition.
+
+Network managers should make **regular backups** of **all files** on a network using backup software. The software automates the process of backups, taking them at a scheduled time of day, usually during a time when the network is quiet. Backups are usually made to high-capacity secondary storage or the [cloud](/theory/01/WIRED_AND_WIRELESS_NETWORKS.md#the-cloud).
+
+### Full backups
+
+A full backup involves making a copy of **every file on the computer or network.** A lot of storage space is required; time consuming.
+
+### Incremental backups
+
+Incremental backups take a copy of **any new files created/modified since the last backup.**
+
+Most network managers make an initial full backup and then switch to daily incremental backups.
+
 ## References
 
 ### Sections
 
  - [1.7.1 Features of an operating system](https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/2)
+ - [1.7.2 Utility software](https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/4)
+ - [1.7.3 Backups](https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/4)
