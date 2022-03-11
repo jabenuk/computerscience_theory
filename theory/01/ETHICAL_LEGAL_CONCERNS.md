@@ -46,9 +46,25 @@ Automation of processes using technology has led to a fall in manual, low-skille
 
 ### Environmental issues
 
+Environmental issues relate to the negative impacts that the manufacturing and use of computers has on the environment. Resources are necessary for computers to be produced, distributed, and used. Metal and plastics are used to manufacture components, and energy is expended in distributing equipment and in using it.
+
+Many computers, such as **web servers**, **DNSs**, and **data centers** need to be left running continuously, requiring lots of energy.
+
+Users often discard IT equipment quicky:
+ - people have new phones every few years
+ - idiots have new phones every single year
+ - many organisations replace computers after 3 or 4 years
+ - many people replace old technology due to the perception of it being 'out of date'
+
+All of this means **computers have a heavy environment impact.** This is unlikely to change in the near future.
+
 ### Privacy issues
 
+See [1998 Data Protection Act](#1998-data-protection-act) in 1.8.6.
+
 ## 1.8.2 The effects of technologies on key stakeholders
+
+
 
 ## 1.8.3 The environmental impact of Computer Science
 
