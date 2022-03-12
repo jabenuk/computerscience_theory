@@ -74,7 +74,7 @@ There are several advantages:
  - some licenses (e.g. the [GNU GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)) enforce that any forks/derivatives must also be made freely available
 
 However, there are also disadvantages:
- - there may be more bugs (sic)[^1]
+ - there may be more bugs[^1]
  - support might not be readily available if the program is not in widespread use
 
 Examples of open source software include:
