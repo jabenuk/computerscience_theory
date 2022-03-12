@@ -14,5 +14,6 @@ This is a repository to store all my GCSE computer science work. Numbering syste
 
 ## Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.1 Algorithms](/theory/02/ALGORITHMS.md)
+ - [2.5 Translators and facilities of languages](/theory/02/TRANSLATORS_AND_FACILITIES.md)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
