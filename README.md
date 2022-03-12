@@ -2,9 +2,7 @@
 
 This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification. Some of the documents may be useful to others, though, so they're all public.
 
-## Theory
-
-### Component 01: Computer systems (50%)
+## Component 01: Computer systems (50%)
  - [1.1 Systems architecture](/theory/01/SYSTEMS_ARCHITECTURE.md)
  - [1.2 Memory](/theory/01/MEMORY.md)
  - [1.3 Storage](/theory/01/STORAGE.md)
@@ -14,6 +12,6 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.7 Systems software](/theory/01/SYSTEMS_SOFTWARE.md)
  - [1.8 Ethical, legal, cultural, and environmental concerns](/theory/01/ETHICAL_LEGAL_CONCERNS.md)
 
-### Component 02: Computational thinking, algorithms, and programming (50%)
+## Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
