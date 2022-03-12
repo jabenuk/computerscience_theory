@@ -1,6 +1,6 @@
 # GCSE Computer Science coursework + theory
 
-This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification, but it's for my use anyway. Some of the documents may be useful to others, though, so they're all public.
+This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification. Some of the documents may be useful to others, though, so they're all public.
 
 ## Theory
 
@@ -17,7 +17,3 @@ This is a repository to store all my GCSE computer science work. Numbering syste
 ### Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
-
-## Coursework
-
-**TBA.**
