@@ -1,4 +1,4 @@
-# GCSE Computer Science coursework + theory
+# GCSE Computer Science theory
 
 This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification. Some of the documents may be useful to others, though, so they're all public.
 
