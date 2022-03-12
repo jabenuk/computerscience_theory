@@ -13,5 +13,6 @@ This is a repository to store all my GCSE computer science work. Numbering syste
  - [1.8 Ethical, legal, cultural, and environmental concerns](/theory/01/ETHICAL_LEGAL_CONCERNS.md)
 
 ## Component 02: Computational thinking, algorithms, and programming (50%)
+ - [2.1 Algorithms](/theory/02/ALGORITHMS.md)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
