@@ -1,4 +1,4 @@
-# 2.6 Computational logic
+# 2.4 Computational logic
 
 ## 2.6.1 Binary format
 
