@@ -18,6 +18,7 @@ Some of the documents may be useful to others, so they're all public, but keep i
  - [2.1 Algorithms](/theory/02/ALGORITHMS.md)
  - [2.2 Programming techniques](/theory/02/PROGRAMMING_TECHNIQUES.md)
  - [2.3 Producing robust programs](/theory/02/PRODUCING_ROBUST_PROGRAMS.md)
+ - [2.4 Computational logic](/theory/02/COMPUTATIONAL_LOGIC.md)
  - [2.5 Translators and facilities of languages](/theory/02/TRANSLATORS_AND_FACILITIES.md)
  - [2.7 Logic gates](/theory/02/LOGIC_GATES.md)
  - [2.8 Flowcharts](/theory/02/FLOWCHARTS.md)
