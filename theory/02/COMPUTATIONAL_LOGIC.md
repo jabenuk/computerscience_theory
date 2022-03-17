@@ -1,6 +1,6 @@
 # 2.4 Computational logic
 
-## 2.6.1 Binary format
+## 2.4.1 Binary format
 
 A processor is, in very oversimplified terms, a collection of transistors. These components have two states, **on (1)** and **off (0)**.
 
@@ -10,7 +10,7 @@ A processor is, in very oversimplified terms, a collection of transistors. These
 
 **Logic gates** are series of transistors connected to give one or more outputs. For more, see [2.7 Logic gates](/theory/02/LOGIC_GATES.md). **Boolean algebra** refers to the notational equivalents shown in [2.7 Logic gates](/theory/02/LOGIC_GATES.md).
 
-## 2.6.2 Truth tables
+## 2.4.2 Truth tables
 
 Here's an example of a **truth table** for an *AND* gate:
 | A | B | Q |
@@ -25,5 +25,5 @@ Here's an example of a **truth table** for an *AND* gate:
 ## References
 
 ### Sections
- - [2.6.1 Binary format](https://www.bbc.co.uk/bitesize/guides/zjw8jty/revision/1)
- - 2.6.2 Truth tables *uncited*
+ - [2.4.1 Binary format](https://www.bbc.co.uk/bitesize/guides/zjw8jty/revision/1)
+ - 2.4.2 Truth tables *uncited*
