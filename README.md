@@ -1,6 +1,8 @@
 # GCSE Computer Science theory
 
-This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification. Some of the documents may be useful to others, though, so they're all public.
+This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification.
+
+Some of the documents may be useful to others, so they're all public, but keep in mind I have removed any content I found extremely simple, like string manipulation, although there is still a lot of very easy stuff left in.
 
 ## Component 01: Computer systems (50%)
  - [1.1 Systems architecture](/theory/01/SYSTEMS_ARCHITECTURE.md)
