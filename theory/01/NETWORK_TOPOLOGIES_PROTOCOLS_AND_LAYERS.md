@@ -51,9 +51,16 @@ However, wireless networks use wireless **Wi-Fi** signals to connect nodes. Wi-F
 
 Unencrypted messages are known as **plaintext.** Encrypted message are known as **ciphertext.**
 
-A simple method of encryption is the **Caeser cipher.** In practice, much more complicated algorithms are used to encrypt messages.
+A simple method of encryption is the **[Caesar cipher](#the-caesar-cipher).** In practice, much more complicated algorithms are used to encrypt messages.
 
 Encryption depends on a given **key.** However, it is of little use if unauthorised users know that key. One way around this issue is using an algorithm that generates two keys - a **public key** and a **private key.** This method is known as **asymmetric encryption**; a public key can be given to anyone, who can then use the key to *encrypt* the message. However, the public key **cannot decrypt the message.** The private key can; as long as it is never given out, messages can be safely encrypted.
+
+#### The Caesar cipher
+The Caesar cipher, also known as the shift cipher, is a basic algorithm that shifts each character by a given amount.
+
+![image](https://user-images.githubusercontent.com/57215724/161044612-459aa813-571a-4eb5-aa9c-d8616c5b130c.png)
+
+In the diagram above, the algorithm is carried out with a **left shift of 3.**
 
 ## 1.5.3 IP and MAC addressing
 
