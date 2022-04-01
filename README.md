@@ -1,3 +1,5 @@
+*As of 01/04/2022, This repository is **archived;** I don't plan on making any additions now that it is completed.*
+
 # GCSE Computer Science theory
 
 This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification.
