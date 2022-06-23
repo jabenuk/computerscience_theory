@@ -36,7 +36,7 @@ These devices are **cheap**, and **high in capacity**. Whilst they are more dura
 Optical storage devices (e.g. CDs, DVDs, and Blu-rays) use a laser to scan the surface of a spinning plastic disc. Flat areas on the disc are known as **lands**, and hollow areas on the disc are known as **pits.** When the laser shines on the disc surface, lands reflect the light back whereas pits scatter the light. Lands represent `1`s, and pits represent `0`s.
 
 There are different types of optical media:
- - **ROM media** act like the optical equivalent of [read-only memory](/theory/01/MEMORY.md#122-read-only-memory-rom); they cannot be written to.
+ - **ROM media** act like the optical equivalent of [read-only memory](MEMORY.md#122-read-only-memory-rom); they cannot be written to.
  - **R media** are blank, and can be written to **only once** via the laser burning pits to represent `0`s.
  - **RW media** are blank, similar to R media - however, they can be written to more than once.
 

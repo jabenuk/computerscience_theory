@@ -65,7 +65,7 @@ Determine how resilient a network is against attacks. Authorised users probe the
 
 ### Network forensics
 
-Monitor the traffic on a network. At regular intervals, transmitted [data packets](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#156-packet-switching) are copied. The copy, and information about the packet, are then stored for later analysis - usually processed in batches. The information gathered can help identify invasive traffic, or determine where data is being sent.
+Monitor the traffic on a network. At regular intervals, transmitted [data packets](NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#156-packet-switching) are copied. The copy, and information about the packet, are then stored for later analysis - usually processed in batches. The information gathered can help identify invasive traffic, or determine where data is being sent.
 
 ### Network policies
 

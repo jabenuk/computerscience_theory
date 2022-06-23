@@ -8,7 +8,7 @@ A processor is, in very oversimplified terms, a collection of transistors. These
  - input off, output off
  - input on, output on
 
-**Logic gates** are series of transistors connected to give one or more outputs. For more, see [2.7 Logic gates](/theory/02/LOGIC_GATES.md). **Boolean algebra** refers to the notational equivalents shown in [2.7 Logic gates](/theory/02/LOGIC_GATES.md).
+**Logic gates** are series of transistors connected to give one or more outputs. For more, see [2.7 Logic gates](LOGIC_GATES.md). **Boolean algebra** refers to the notational equivalents shown in [2.7 Logic gates](LOGIC_GATES.md).
 
 ## 2.4.2 Truth tables
 

@@ -59,7 +59,7 @@ File handling and maintenance is one of the most important tasks of an OS. The f
 
 ### Encryption software
 
-Disguise the contents of files so they can only be understood by authorised users. This example of utility software uses a complex algorithm to encrypt the content. For more, see [Networks, Protocols, and Layers: Encryption](/theory/01/NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#encryption). Encryption software can encrypt specified files, or the whole of a specified disk or partition.
+Disguise the contents of files so they can only be understood by authorised users. This example of utility software uses a complex algorithm to encrypt the content. For more, see [Networks, Protocols, and Layers: Encryption](NETWORK_TOPOLOGIES_PROTOCOLS_AND_LAYERS.md#encryption). Encryption software can encrypt specified files, or the whole of a specified disk or partition.
 
 ### Defragmentation
 
@@ -75,7 +75,7 @@ Compression software reduces the size of a file stored on secondary storage. Sma
 
 Data can be lost accidentally or deliberately - in the case of hard drives, it probably will. This is why **backups** should be taken - regular copies of the data are made, replicating either specified files, or all the files on a disk or partition.
 
-Network managers should make **regular backups** of **all files** on a network using backup software. The software automates the process of backups, taking them at a scheduled time of day, usually during a time when the network is quiet. Backups are usually made to high-capacity secondary storage or the [cloud](/theory/01/WIRED_AND_WIRELESS_NETWORKS.md#the-cloud).
+Network managers should make **regular backups** of **all files** on a network using backup software. The software automates the process of backups, taking them at a scheduled time of day, usually during a time when the network is quiet. Backups are usually made to high-capacity secondary storage or the [cloud](WIRED_AND_WIRELESS_NETWORKS.md#the-cloud).
 
 ### Full backups
 

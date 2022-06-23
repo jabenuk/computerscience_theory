@@ -19,7 +19,7 @@ A **complex problem** refers to any problem that does not have an immediate solu
 
 As stated by the BBC:
  > An example of abstraction is the London Underground map. It details tube and rail lines and the stations that are on them. That is all that is required for a passenger to be able to plan a journey from one station to another. Other details, such as real geographical location, distance between stations, depth underground and number of platforms are not included as they are irrelevant to journey planning on the Underground.
- > 
+ >
  > <img src="https://ichef.bbci.co.uk/images/ic/1008xn/p06rm6k4.jpg" height=200px>
 
 ## 2.1.2 Evaluating common search algorithms
@@ -47,7 +47,7 @@ function linearSearch(list, value):
       return; // 'return' exits the function, therefore concluding the search.
     endif
   endfor
-  
+
   // if the function reaches this point, the value was not found in the data set.
   print("Value was not found.");
 endfunction
@@ -73,16 +73,16 @@ A binary search algorithm can be seen in pseudocode:
 function binarySearch(list, value):
   var lowerBound = 0;
   var upperBound = list.length - 1; // the last index in the list
-  
+
   while (lowerBound <= upperBound)
     var midpoint = roundUp((upperBound + lowerBound) / 2);
-    
+
     if (list[midpoint] == value)
       // the list value at the midpoint is equal to the desired value, so we output a message to stdout.
       print("Found at position " + i);
       return; // 'return' exits the function, therefore concluding the search.
     endif
-    
+
     if (list[midpoint] > value)
       // the midpoint is more than the value - the upper bound is lowered so that the upper half is ignored.
       upperBound = midpoint - 1;
@@ -91,7 +91,7 @@ function binarySearch(list, value):
       upperBound = midpoint + 1;
     endif
   endwhile
-  
+
   // if the function reaches this point, the value was not found in the data set.
   print("Value was not found.");
 endfunction
@@ -119,7 +119,7 @@ function bubbleSort(list)
   // do this for as long as the list is not sorted; each iteration of this loop is one pass.
   while (sorted == false)
     var swaps = 0;
-  
+
     for (i in range(list.length - 1)):
       // loop through the list; if the current value is greater than the one after...
       if (list[i] > list[i + 1]):
@@ -130,7 +130,7 @@ function bubbleSort(list)
         swaps += 1;
       endif
     endfor
-   
+
     if (swaps == 0)
       // if no swaps were made, we know the list has been sorted so the while loop ends
       sorted = true;
@@ -161,7 +161,7 @@ See [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/5).
 ### Algorithmic thinking
 **Algorithmic thinking** is focusing on how a desired solution can be reached by identifying the necessary steps to get there - a key part of [computational thinking](#211-computational-thinking), this process includes **algorithm** production.
 
-An **algorithm** refers to any process to solving a problem. Algorithms are typically written as **[pseudocode](#pseudocode)** or a **[flowchart](#flowcharts)**. 
+An **algorithm** refers to any process to solving a problem. Algorithms are typically written as **[pseudocode](#pseudocode)** or a **[flowchart](#flowcharts)**.
 
 Before an algorithm can be designed, the problem should be fully [decomposed](#decomposition). The following points should be considered:
  1. What are the inputs to the problem?
@@ -190,7 +190,7 @@ For the purposes of this documentation, pseudocode is highlighted with JavaScrip
 
 ### Flowcharts
 
-See [2.8 Flowcharts](/theory/02/FLOWCHARTS.md).
+See [2.8 Flowcharts](FLOWCHARTS.md).
 
 ## References
 
