@@ -1,12 +1,10 @@
-*As of 01/04/2022, This repository is **archived;** I don't plan on making any additions now that it is completed.*
+# Computer Science theory
 
-# GCSE Computer Science theory
+This is a repository to store all my school computer science-related work. Numbering systems are not necessarily the same as those used in the respective OCR specification(s).
 
-This is a repository to store all my GCSE computer science work. Numbering systems are not necessarily the same as those used in the official OCR specification.
+## GCSE _(OCR Computer Science GCSE 9-1)_
 
-Some of the documents may be useful to others, so they're all public, but keep in mind I have removed any content I found extremely simple, like string manipulation, although there is still a lot of very easy stuff left in.
-
-## Component 01: Computer systems (50%)
+### Component 01: Computer systems (50%)
  - [1.1 Systems architecture](/theory/01/SYSTEMS_ARCHITECTURE.md)
  - [1.2 Memory](/theory/01/MEMORY.md)
  - [1.3 Storage](/theory/01/STORAGE.md)
@@ -16,7 +14,7 @@ Some of the documents may be useful to others, so they're all public, but keep i
  - [1.7 Systems software](/theory/01/SYSTEMS_SOFTWARE.md)
  - [1.8 Ethical, legal, cultural, and environmental concerns](/theory/01/ETHICAL_LEGAL_CONCERNS.md)
 
-## Component 02: Computational thinking, algorithms, and programming (50%)
+### Component 02: Computational thinking, algorithms, and programming (50%)
  - [2.1 Algorithms](/theory/02/ALGORITHMS.md)
  - [2.2 Programming techniques](/theory/02/PROGRAMMING_TECHNIQUES.md)
  - [2.3 Producing robust programs](/theory/02/PRODUCING_ROBUST_PROGRAMS.md)
